@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	color: #FFFFFF;
+}
+
+.section1{
+	background: url(../img/bg_1.jpg) no-repeat center;
+	background-size: cover;
+}
+.slide{
+	text-align: center;
+}
